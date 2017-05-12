@@ -29,9 +29,4 @@ public class GatewayApplication {
         return new VersionRule();
     }
 
-//    @Bean
-//    public ServerListFilter<Server> serverListFilter() {
-//        return new VersionServerListFilter();
-//    }
-
 }
